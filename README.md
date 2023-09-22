@@ -6,4 +6,4 @@ This is my presentation repository, where I will share my projects and learnings
 
 Learning
 
-I am learning HTML, CSS, Bootstrap, JavaScript, Jquery and React.js.
+I am learning React.js, Vue.Js, Typescript, JavaScript, HTML, CSS, Bootstrap, Sass and Jquery.
