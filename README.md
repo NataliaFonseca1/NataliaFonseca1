@@ -12,7 +12,7 @@ This is my presentation repository, where I will share my projects and learnings
 
 - 📫 How to reach me **fonsecanatalianf@gmail.com**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nataliafonseca1&show_icons=true&locale=en&layout=compact" alt="nataliafonseca1" /></p>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=nataliafonseca1&show_icons=true&locale=en&layout=compact" alt="nataliafonseca1" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
