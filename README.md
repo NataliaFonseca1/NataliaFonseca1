@@ -6,9 +6,7 @@ This is my presentation repository, where I will share my projects and learnings
 
 
 <h3 align="center">Front-end developer from Brasil</h3>
-<div align="center">
-  <img height="200" src="https://giphy.com/embed/uB86ZyWQsnFSGYe2sA"  />
-</div>
+
 
 - 👨‍💻 All of my projects are available at [https://portf-lio-v2.vercel.app/](https://portf-lio-v2.vercel.app/)
 
